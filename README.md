@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mi nombre es Nadia. Soy Data Scientist en constante evolución y una gran curiosidad por el mundo tecnológico. 
+Mi nombre es Nadia. Soy Data Scientist en constante evolución y tengo una gran curiosidad por el mundo tecnológico. 
 
 Me interesa seguir creciendo como Data Scientist, especialmente orientado al análisis de los datos.
 
