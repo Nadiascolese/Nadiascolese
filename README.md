@@ -8,8 +8,11 @@ Me interesa seguir creciendo como Data Scientist, especialmente orientado al an�
 ### Acerca de mí :
 
 🌍 Soy de Argentina, nací en La Plata - Buenos Aires.
-🎓 Además de estudiar Ciencia de Datos, también estudie enfermeria en la UNLP
+
+🎓 Además de estudiar Ciencia de Datos, también estudie enfermeria en la UNLP .
+
 🛠 Disfruto transmitir mis conocimientos, trabajar en equipo y enfrentar nuevos desafíos para seguir creciendo y aportar valor en cada proyecto.
+
 🌱 Me interesa seguir creciendo como Data Scientist, especialmente orientado al análisis de los datos.
 
 
