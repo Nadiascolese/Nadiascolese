@@ -7,6 +7,7 @@ Me interesa seguir creciendo como Data Scientist, especialmente orientado al an�
 
 ### Acerca de mí :
 
+
 🌍 Soy de Argentina, nací en La Plata - Buenos Aires.
 
 🎓 Además de estudiar Ciencia de Datos, también estudie enfermeria en la UNLP .
@@ -17,6 +18,7 @@ Me interesa seguir creciendo como Data Scientist, especialmente orientado al an�
 
 
 ### Entorno Tecnológico:
+
 
 💻 Python | SQL
 
@@ -31,7 +33,8 @@ Me interesa seguir creciendo como Data Scientist, especialmente orientado al an�
 ⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code
 
 
-### Si queres contactarme podes hacerlo por estos medios :
+### Si querés contactarme podes hacerlo por estos medios :
+
 
 Mail: nay.scolese@gmail.com
 
